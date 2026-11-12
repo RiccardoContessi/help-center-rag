@@ -12,3 +12,8 @@ __pycache__/
 
 # Generated data
 data/chroma/
+data/raw/
+
+.python-version
+uv.lock
+*.toml
